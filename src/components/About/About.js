@@ -22,9 +22,10 @@ const About = () => (
         }}
       >
         I am a Framingham State University student majoring in Computer Science.
-        My past classes and my own experiences have allowed me to work with
-        different languages including JavaScript, HTML, CSS, and Python as well
-        as gain technical skills in front-end and back-end web development.
+        My past classes and my desire to learn have given me the ability to work
+        with many different languages including JavaScript, HTML, CSS, and
+        Python. This has enhanced my technical knowledge of front-end and
+        back-end web development allowing me to build some pretty neat projects!
       </SectionText>
     </AboutContainer>
   </Section>

@@ -15,8 +15,8 @@ const Hero = () => (
         My Personal Portfolio
       </SectionTitle>
       <SectionText>
-        My name is Eric Schmidt. Take a look at some of my projects and the
-        technologies that I use!
+        My name is Eric Schmidt. Take a look at some of my projects, the
+        technologies that I use, and learn a little bit about me!
       </SectionText>
     </LeftSection>
   </Section>
