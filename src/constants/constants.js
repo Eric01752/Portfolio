@@ -6,7 +6,7 @@ export const projects = [
     image: '/images/MERN_SocialMedia.jpg',
     tags: ['Mongo', 'Express', 'React', 'Node', 'Socket.io'],
     source: 'https://github.com/Eric01752/MERN_SocialMedia',
-    visit: 'https://google.com',
+    visit: 'https://eric-social-media.herokuapp.com',
     id: 0,
   },
   {
@@ -16,7 +16,7 @@ export const projects = [
     image: '/images/MERN_SocialDev.jpg',
     tags: ['React', 'Redux', 'Express', 'Node', 'Mongo'],
     source: 'https://github.com/Eric01752/MERN-SocialDev',
-    visit: 'https://google.com',
+    visit: 'https://eric-social-dev.herokuapp.com',
     id: 1,
   },
   {
@@ -26,7 +26,7 @@ export const projects = [
     image: '/images/MERN_ShoppingList.jpg',
     tags: ['React', 'Redux', 'Express', 'Node', 'Mongo'],
     source: 'https://github.com/Eric01752/MERN-Shopping-List-App',
-    visit: 'https://google.com',
+    visit: 'https://eric-shopping-list.herokuapp.com',
     id: 2,
   },
 ];
