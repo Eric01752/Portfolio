@@ -10,12 +10,12 @@ export const projects = [
     id: 0,
   },
   {
-    title: 'MERN DevConnector',
+    title: 'MERN SocialDev',
     description:
       'Small social media app for developers. Uses React, Redux, Express, Node, MongoDB.',
-    image: '/images/MERN_DevConnector.jpg',
+    image: '/images/MERN_SocialDev.jpg',
     tags: ['React', 'Redux', 'Express', 'Node', 'Mongo'],
-    source: 'https://github.com/Eric01752/MERN-DevConnector',
+    source: 'https://github.com/Eric01752/MERN-SocialDev',
     visit: 'https://google.com',
     id: 1,
   },
