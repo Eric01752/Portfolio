@@ -18,6 +18,10 @@ export const SelfImage = styled.img`
   border: black solid 3px;
   margin-right: 50px;
 
+  @media ${(props) => props.theme.breakpoints.lg} {
+    margin-bottom: 16px;
+  }
+
   @media ${(props) => props.theme.breakpoints.md} {
     width: 250px;
     height: 325px;
