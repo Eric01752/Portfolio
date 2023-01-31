@@ -15,11 +15,14 @@ const About = () => (
     <AboutContainer>
       <SelfImage src='/images/EricSchmidtPicture.jpg' />
       <SectionText>
-        I am a Framingham State University student majoring in Computer Science.
-        My past classes and my desire to learn have given me the opportunity to
-        work with many different languages including JavaScript, HTML, CSS, and
-        Python. This has enhanced my technical knowledge of front-end and
-        back-end web development allowing me to build some pretty neat projects!
+        I am a recent graduate of Framingham State University with a bachelor's
+        degree in Computer Science. The classes I took at FSU and my desire to
+        learn have given me the opportunity to work with many different languages
+        including JavaScript, HTML, CSS, and Python. This has enhanced my technical
+        knowledge of front-end and back-end web development allowing me to build
+        some pretty neat projects! I currently work as a software engineer intern
+        at Waters Corporation where I have learned many things, some of which are
+        the programming languages C# and TypeScript as well as agile methodologies.
       </SectionText>
     </AboutContainer>
   </Section>

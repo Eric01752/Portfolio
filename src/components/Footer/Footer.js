@@ -32,7 +32,7 @@ const Footer = () => {
       <SocialIconsContainer>
         <CompanyContainer>
           <Slogan>
-            Looking for Full-time job in Web Development
+            Looking for Full-time job in Web Development/Software Engineering
           </Slogan>
         </CompanyContainer>
         <SocialContainer>
